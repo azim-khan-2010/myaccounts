@@ -1,0 +1,117 @@
+.black{
+    background-color:rgb(29, 29, 29);
+    height: 500px;
+    width: 350px;
+    border-radius: 0px;
+ border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
+  border-bottom-right-radius: 70px;
+  border-bottom-left-radius: 70px;
+
+ 
+}
+.green{
+    background-color: rgb(136, 206, 67);
+    height: 550px;
+    width: 350px;
+     border-radius: 40px;
+ box-shadow: 5px 5px 100px rgb(35, 34, 34) ;
+
+}
+.parent {
+  display: flex;
+  justify-content: center;
+  align-items: center;    
+    
+}
+.top{
+    display: flex;
+    gap: 100px;
+    margin-left: 20px;
+    padding: 10px;
+}
+.a{
+    font-size: 24px;
+    color: white;
+}
+.b{
+    font-size: 24px;
+    color: white;
+}
+.pic{
+    height: 210px;
+    width: 350px;
+    background-color: rgb(29, 29, 29);
+      display: flex;
+  justify-content: center;
+  align-items: center;    
+   
+}
+.mai{
+    height: 200px;
+    width: 150px;
+    border-radius: 100px;
+    background-image: url('profile-icon-design-free-vector.jpg');
+  background-repeat: no-repeat; 
+  background-size: contain;
+}
+.name{
+  text-align: center;
+  color: aqua;
+  font-size: 24px;
+}
+.link{
+  margin-top: 10px;
+  gap: 10px;
+  padding: 5px;
+  display: flex;
+    display: flex;
+  justify-content: center;
+  align-items: center;    
+}
+.link i{
+  color: aliceblue;
+  font-size: 30px;
+
+}
+ .circle {
+            width: 50px;
+            height: 50px;
+            border: 2px solid #5A5A5A;
+            border-radius: 50%;
+ display: flex;
+      justify-content: center;
+      align-items: center;
+
+        }
+          a {
+      text-decoration: none;
+    }
+    .mail{
+      margin-top: 20px;
+      height: 50px;
+      width: 350px;
+      background-color: rgb(29, 29, 29);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+.mme{
+width: 300px;
+height: 50px;
+background-color: blue;
+border-radius: 30px;
+ display: flex;
+      justify-content: center;
+      align-items: center;
+      color: azure;
+      font-size: 24px;
+}
+.mme:hover{
+  background-color: aqua;
+  color: black;
+ transition-delay: 0.3s;
+}
+.cu{
+
+}
